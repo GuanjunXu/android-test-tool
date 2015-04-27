@@ -1,5 +1,6 @@
 #!/bin/bash
 APK="package.apk"
+#package name and launchable activity can be obtained via command: "aapt dump badging"
 PACKAGE="com.app.name"
 ACTIVITY="com.app.name.default.activity"
 # 1. Install
